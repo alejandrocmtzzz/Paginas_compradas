@@ -27,5 +27,5 @@ else{
 	//Set Location After Unsuccesssfull Submission
   	header('Location: contact.html?message=Failed');	
 }
-
+ //test
 ?>
